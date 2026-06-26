@@ -35,9 +35,9 @@ Configuration used in the final walkthrough:
 - Last seven days
 
 Final snapshot:
-- 33 unique landing-page viewers
-- 16 users clicked Sign Up
-- 48.5% CTA click conversion
+- 43 unique landing-page viewers
+- 23 users clicked Sign Up
+- 53.5% CTA click conversion
 
 This figure measures CTA engagement, not completed registration. The demo did not include a full sign-up flow.
 
@@ -49,7 +49,7 @@ Dynamic cohort definition:
 - Count = 1
 - Last seven days
 
-Final snapshot: 14 users.
+Final snapshot: 20 users.
 
 ## Validation
 I confirmed that events were received in Amplitude Live Events and checked the event properties to verify that they came from the public Netlify domain.
